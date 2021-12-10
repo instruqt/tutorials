@@ -1,0 +1,18 @@
+slug: instruqt-cli-getting-started
+id: 1w8pib6cdmfl
+type: track
+title: Getting Started with the Instruqt CLI
+teaser: This track will get you up and running quickly with the powerful and easy-to-use
+  Instruqt Command Line Interface (CLI).
+description: |-
+  This beginner's tutorial will teach you how to install the Instruqt CLI tool, how to authenticate with the CLI, and how to build and deploy your first track using the command line and a text editor.
+
+  Instruqt tracks are built from standard Markdown and YAML files that you can edit with any programmer's text editor. Once you've built your track configuration you can easily publish and test your changes with the `instruqt track push` command.
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+tags: []
+owner: instruqt
+developers:
+- sean@instruqt.com
+private: true
+published: true
+checksum: "10051025796414432375"

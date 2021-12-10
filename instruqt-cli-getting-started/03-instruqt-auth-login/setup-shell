@@ -1,0 +1,17 @@
+#!/bin/sh
+#
+# This script runs when the platform setup the challenge.
+#
+# The platform determines if the script was successful using the exit code of this
+# script. If the exit code is not 0, the script fails. 
+#
+
+echo "Replace instruqt command line with a function to hide xdg-open dialog"
+
+cat >> ~/.bashrc <<-EOF
+
+# This function hides the localhost URL from the user
+function instruqt() {
+  /usr/local/bin/instruqt "\${@}" | sed 's|http://localhost:15777/|Click the login tab|g'
+}
+EOF
