@@ -13,6 +13,6 @@ tags: []
 owner: instruqt
 developers:
 - sean@instruqt.com
-private: true
+private: false
 published: true
-checksum: "10051025796414432375"
+checksum: "925324399689925472"
