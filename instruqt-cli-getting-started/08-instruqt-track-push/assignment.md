@@ -33,7 +33,7 @@ instruqt track push
 If everything went as planned you'll see the build process complete and a track URL will be shown in the output. For example:
 
 ```
-Track URL: https://play.instruqt.com/instruqt-testing/tracks/seans-new-track
+Track URL: https://play.instruqt.com/instruqt/tracks/seans-new-track
 ```
 
 Open this track in a new window, and proceed to the next challenge.
