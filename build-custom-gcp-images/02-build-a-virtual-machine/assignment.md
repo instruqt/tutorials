@@ -14,7 +14,7 @@ tabs:
   hostname: cloud-client
   port: 80
 difficulty: basic
-timelimit: 600
+timelimit: 450
 ---
 Next you'll create a new virtual machine and install some software on it. We'll then make a custom image of the machine's disk to use in your tracks.
 

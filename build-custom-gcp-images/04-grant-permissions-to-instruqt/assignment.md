@@ -15,7 +15,7 @@ tabs:
   hostname: cloud-client
   port: 80
 difficulty: basic
-timelimit: 600
+timelimit: 450
 ---
 Browse to the IAM settings in your GCP console.
 

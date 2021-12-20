@@ -14,7 +14,7 @@ tabs:
   hostname: cloud-client
   port: 80
 difficulty: basic
-timelimit: 600
+timelimit: 450
 ---
 In this track we've created a new project for you to use. This sandbox project will be deleted after the track is stopped.
 

@@ -14,7 +14,7 @@ tabs:
   hostname: cloud-client
   port: 80
 difficulty: basic
-timelimit: 600
+timelimit: 450
 ---
 If you've come from AWS you might be familiar with the concept of an Amazon Machine Image (AMI).
 
