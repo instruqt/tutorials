@@ -7,7 +7,7 @@ teaser: Grant the Instruqt GCP service account read access to your GCP project.
 notes:
 - type: text
   contents: GCP service accounts can be used to grant read-only access to specific
-    resources. Instruqt requires the Compute Image - User permission to use your custom
+    resources. Instruqt requires the Compute Image User permission to use your custom
     images in tracks.
 tabs:
 - title: Google Project
@@ -26,6 +26,8 @@ Create a new principal and paste the Instruqt service account email into the cor
 ```
 instruqt-track@instruqt-prod.iam.gserviceaccount.com
 ```
+
+![Create New IAM Principal](../assets/gcp_add_iam_principal.png)
 
 Grant the Compute Image User permission to the account and click the **Save** button.
 

@@ -32,7 +32,7 @@ At the top of the page select the **Create Image** button:
 
 Give the image a descriptive name. In this example we'll use `ubuntu-openjdk-2021-12-20`.
 
-Under **Source Disk** select the disk from **my-build-instance**.
+Under **Source Disk** select the disk from **my-build-instance**. It may take a minute or two for the disk to show up in the pulldown menu.
 
 ![Custom Image Name](../assets/gcp_custom_image_name.png)
 
