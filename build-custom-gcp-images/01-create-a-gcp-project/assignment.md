@@ -1,6 +1,6 @@
 ---
 slug: create-a-gcp-project
-id: rhcoo0bvywqj
+id: vctmx1j6hzbq
 type: challenge
 title: Create a GCP Project
 teaser: The first thing you'll need is a dedicated GCP project for storing your Instruqt
@@ -13,9 +13,6 @@ tabs:
   type: service
   hostname: cloud-client
   port: 80
-# - title: Workstation
-#   type: terminal
-#   hostname: workstation
 difficulty: basic
 timelimit: 600
 ---

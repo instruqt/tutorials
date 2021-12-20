@@ -1,6 +1,6 @@
 ---
 slug: build-a-virtual-machine
-id: y5gykwqm9qgj
+id: vsvzkj6kevae
 type: challenge
 title: Build a Virtual Machine
 teaser: Create a temporary virtual machine where you can install software.
@@ -13,9 +13,6 @@ tabs:
   type: service
   hostname: cloud-client
   port: 80
-# - title: Workstation
-#   type: terminal
-#   hostname: workstation
 difficulty: basic
 timelimit: 600
 ---

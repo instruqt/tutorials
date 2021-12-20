@@ -1,6 +1,6 @@
 ---
 slug: grant-permissions-to-instruqt
-id: p3grognmgufm
+id: l4y2yjlhmpsp
 type: challenge
 title: Grant Permissions to Instruqt
 teaser: Grant the Instruqt GCP service account read access to your GCP project.
@@ -14,9 +14,6 @@ tabs:
   type: service
   hostname: cloud-client
   port: 80
-# - title: Workstation
-#   type: terminal
-#   hostname: workstation
 difficulty: basic
 timelimit: 600
 ---

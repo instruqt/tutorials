@@ -1,6 +1,6 @@
 ---
 slug: create-a-custom-image
-id: fk0l8xk4kgtw
+id: hlxbneklosh5
 type: challenge
 title: Create a Custom Image
 teaser: Make a copy of the build machine's startup disk for use in your Instruqt tracks.
@@ -13,9 +13,6 @@ tabs:
   type: service
   hostname: cloud-client
   port: 80
-# - title: Workstation
-#   type: terminal
-#   hostname: workstation
 difficulty: basic
 timelimit: 600
 ---
