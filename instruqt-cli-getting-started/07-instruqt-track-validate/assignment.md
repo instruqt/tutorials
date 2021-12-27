@@ -9,12 +9,12 @@ notes:
   contents: The validate command can be used in CI/CD pipelines to fail fast when
     invalid configurations are detected.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300

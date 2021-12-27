@@ -9,12 +9,12 @@ notes:
   contents: The Instruqt CLI creates a new track with some basic defaults. You can
     edit any of these settings once the track is created.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300

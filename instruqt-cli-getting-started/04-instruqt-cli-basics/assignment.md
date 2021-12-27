@@ -9,9 +9,9 @@ notes:
   contents: The Instruqt CLI can be used on your laptop, or by CI/CD tools for automated
     builds and testing.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 difficulty: basic
 timelimit: 300
 ---

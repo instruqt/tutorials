@@ -9,12 +9,12 @@ notes:
 - type: text
   contents: "\U0001F916 Beep...boop...booting up your Instruqt sandbox..."
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Text Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300

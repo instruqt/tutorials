@@ -12,12 +12,12 @@ notes:
 
     https://api-docs.instruqt.com/
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Login
   type: service
-  hostname: shell
+  hostname: workstation
   port: 15777
   new_window: true
 difficulty: basic

@@ -11,12 +11,12 @@ notes:
     you only change notes and assignment text the changes will go live immediately
     without restarting the track.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300

@@ -9,12 +9,12 @@ notes:
   contents: The Instruqt development feedback cycle is fast. You can push changes
     and test them almost immediately while you are building content.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300
