@@ -36,9 +36,7 @@ Enter the following command into your **Shell** environment to launch the login 
 instruqt auth login
 ```
 
-NOTE: You can safely ignore the xdg-open error message. When you run `instruqt auth login` on your laptop you won't see this message.
-
-Now you may click on the **Login** tab. This will open a separate login window with options for authentication.If you're not sure which one to choose select "Sign in with email".
+Now you may click on the **Login** tab. This will open a separate login window with options for authentication. If you're not sure which one to choose select "Sign in with email".
 
 Once you have authenticated you'll see message that says:
 
