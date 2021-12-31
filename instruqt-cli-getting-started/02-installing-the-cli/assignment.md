@@ -11,9 +11,9 @@ notes:
 
     The Instruqt command line tool is written in Golang and can run on Linux, Windows, or MacOS.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 difficulty: basic
 timelimit: 300
 ---

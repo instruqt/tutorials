@@ -9,12 +9,12 @@ notes:
   contents: Instruqt challenges can test all kinds of skills and functions. If you
     can dream it, you can build it.
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Editor
   type: code
-  hostname: shell
+  hostname: workstation
   path: /root
 difficulty: basic
 timelimit: 300

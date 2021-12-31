@@ -12,12 +12,12 @@ notes:
 
     https://api-docs.instruqt.com/
 tabs:
-- title: Shell
+- title: Workstation
   type: terminal
-  hostname: shell
+  hostname: workstation
 - title: Login
   type: service
-  hostname: shell
+  hostname: workstation
   port: 15777
   new_window: true
 difficulty: basic
@@ -31,14 +31,12 @@ h2.cyan { color: cyan; }
 <h2 class="cyan">Log on to Instruqt</h2>
 <hr class="cyan">
 
-Enter the following command into your **Shell** environment to launch the login page:
+Enter the following command into your **Workstation** environment to launch the login page:
 ```bash
 instruqt auth login
 ```
 
-NOTE: You can safely ignore the xdg-open error message. When you run `instruqt auth login` on your laptop you won't see this message.
-
-Now you may click on the **Login** tab. This will open a separate login window with options for authentication.If you're not sure which one to choose select "Sign in with email".
+Now you may click on the **Login** tab. This will open a separate login window with options for authentication. If you're not sure which one to choose select "Sign in with email".
 
 Once you have authenticated you'll see message that says:
 
@@ -47,7 +45,7 @@ Once you have authenticated you'll see message that says:
 <h2 class="cyan">Return to the Shell</h2>
 <hr class="cyan">
 
-Go back to your **Shell** tab in Instruqt. If you have more than one organization you'll be asked to select which one should be the default. If you only have a single organization then it becomes the default automatically.
+Go back to your **Workstation** tab in Instruqt. If you have more than one organization you'll be asked to select which one should be the default. If you only have a single organization then it becomes the default automatically.
 
 Nice work. You've authenticated with your Instruqt account and can begin building.
 
