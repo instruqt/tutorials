@@ -48,4 +48,4 @@ instruqt update
 
 The Instruqt CLI can automatically update itself on most systems. It automatically checks for new versions each time you start it up.
 
-Now that you have a feel for the command line tool, let's create our first track. Hit the Check button below to proceed.
+Now that you have a feel for the command line tool, let's create our first track. Hit the **Next** button below to proceed.

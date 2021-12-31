@@ -24,7 +24,7 @@ hr.cyan { background-color: cyan; color: cyan; height: 2px; margin-bottom: -10px
 h2.cyan { color: cyan; }
 </style>Instruqt tracks consist of one or more challenges that the user must complete to move forward.
 
-Before you proceed make sure you are in your track directory. If you aren't try running the `set-workdir mytrack` command again, and refreshing your shell tab.
+Before you proceed make sure you are in your track directory, `/root/my-first-track`.
 
 <h2 class="cyan">Create a New Challenge</h2>
 <hr class="cyan">
@@ -50,7 +50,7 @@ Everything below the second `---` is written in Markdown. If you haven't used Ma
 
 Let's give our users some basic instructions on what to do to solve the challenge. Copy the following text into your **assignment.md** file. Note the use of triple backticks to indicate a code block that the user should run.
 
-NOTE: This content goes at the **bottom** of the file, right below the three dashes: `---`.
+NOTE: This content goes at the **bottom** of the file, right below the three dashes: `---`. You can replace the boilerplate text that is already there with this content:
 
 <pre>
 Hello user! In order to complete this challenge you'll need to create a file called **hello.txt** containing the words "Hello World". Run the following command to create the file:

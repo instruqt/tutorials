@@ -30,21 +30,19 @@ h2.cyan { color: cyan; }
 Create a new track by running the following command:
 
 ```bash
-instruqt track create
+instruqt track create --title "My first track"
 ```
 
-If you don't specify the `--title` flag you'll get some interactive questions to help you build your track.
-
-Choose a name for your track and then select `1` to create a new track from scratch.
+A new track directory called `my-first-track` will be created and populated with track files.
 
 <h2 class="cyan">Set Working Directory</h2>
 <hr class="cyan">
 
-Let's set your new track directory as our working directory for the rest of the lab. Run the following commands, replacing the track name with your own. Make sure you spell the directory name correctly!
+Let's set your new track directory as our working directory for the rest of the lab. Run the following commands to set your working directory:
 
 ```bash
-cd /root/my-new-track
-set-workdir /root/my-new-track
+cd /root/my-first-track
+set-workdir /root/my-first-track
 ```
 
 This command ensures that you won't have to run the `cd` command to change into your track directory in every challenge.

@@ -8,7 +8,7 @@ teaser: Use the `instruqt auth login` command to authenticate yourself and safel
 notes:
 - type: text
   contents: |-
-    The Instruqt platform has a RESTful API that you can use to manage your tracks and query data.
+    The Instruqt platform has a GraphQL API that you can use to manage your tracks and query data.
 
     https://api-docs.instruqt.com/
 tabs:
@@ -49,4 +49,4 @@ Go back to your **Workstation** tab in Instruqt. If you have more than one organ
 
 Nice work. You've authenticated with your Instruqt account and can begin building.
 
-Click on the **Check** button to continue.
+Click on the **Next** button to continue.
