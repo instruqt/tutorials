@@ -31,7 +31,7 @@ If you've used Instruqt before you can skip straight to the **Check** button.
 <h2 class="cyan">Terminal and Editor Basics</h2>
 <hr class="cyan">
 
-On the left notice the **Shell** tab. This is where you should run all your commands. Run the following command in the **Shell** tab to create a new file:
+On the left notice the **Workstation** tab. This is where you should run all your commands. Run the following command in the **Workstation** tab to create a new file:
 
 ```bash
 touch hello.txt
