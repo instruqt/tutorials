@@ -1,0 +1,17 @@
+slug: google-artifact-registry-container
+id: nngyjn3xnwtm
+type: track
+title: Storing Container Images in Google Artifact Registry
+teaser: Learn how to copy a container image from Docker Hub into Google Artifact Registry
+description: |-
+  This track shows you how to take an existing container image and push it into a Google Artifact Registry. You can use your own repository to store container images for Instruqt tracks.
+
+  The Instruqt backend runs on Google Cloud Platform. By storing your container images on GCP you can speed startup times and not worry about pull limits imposed by Docker Hub.
+icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+tags: []
+owner: instruqt
+developers:
+- sean@instruqt.com
+private: true
+published: true
+checksum: "17026659868931307826"

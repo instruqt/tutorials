@@ -1,0 +1,15 @@
+version: "3"
+containers:
+- name: workstation
+  image: ubuntu
+  workstation: /bin/bash
+  memory: 1024
+- name: cloud-client
+  image: gcr.io/instruqt/cloud-client
+  workstation: /bin/bash
+  ports:
+  - 80
+gcp_projects:
+- name: gcpproject
+  services:
+  - artifactregistry.googleapis.com
