@@ -1,6 +1,5 @@
 ---
 slug: create-a-gcp-project
-id: vctmx1j6hzbq
 type: challenge
 title: Create a GCP Project
 teaser: The first thing you'll need is a dedicated GCP project for storing your Instruqt

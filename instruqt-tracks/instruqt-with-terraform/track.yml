@@ -1,5 +1,4 @@
 slug: instruqt-with-terraform
-id: ymmuprmknmsv
 type: track
 title: Building on Instruqt with Terraform
 teaser: This track shows you how to use Instruqt with Terraform to build cloud resources
@@ -18,7 +17,7 @@ icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags:
 - terraform
 - saas
-owner: instruqt
+owner: tutorials
 developers:
 - sean@instruqt.com
 private: true

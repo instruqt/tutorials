@@ -1,6 +1,5 @@
 ---
 slug: create-a-challenge
-id: lbktge6ykzqh
 type: challenge
 title: "\U0001F3CB\U0001F3FB‍♀️ Create a Challenge"
 teaser: Use the `instruqt challenge create` command to generate a new challenge.

@@ -1,6 +1,5 @@
 ---
 slug: build-a-virtual-machine
-id: vsvzkj6kevae
 type: challenge
 title: Build a Virtual Machine
 teaser: Create a temporary virtual machine where you can install software.

@@ -1,6 +1,5 @@
 ---
 slug: instruqt-track-validate
-id: v90r4cztumzy
 type: challenge
 title: ☑️ Instruqt Track Validate
 teaser: Use the `instruqt track validate` command to verify your track code.

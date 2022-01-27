@@ -1,6 +1,5 @@
 ---
 slug: run-terraform-apply
-id: 0nl3lykqfmll
 type: challenge
 title: ⌨️ Run Terraform Apply
 teaser: Run the **terraform apply** command to build and configure your infrastructure.

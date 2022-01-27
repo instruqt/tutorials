@@ -1,6 +1,5 @@
 ---
 slug: configure-a-saas-provider
-id: 0l1gv4hxab9c
 type: challenge
 title: "\U0001F4BB Configure a SaaS Provider"
 teaser: Learn how to use Terraform with a SaaS provider.

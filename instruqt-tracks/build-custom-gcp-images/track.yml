@@ -1,5 +1,4 @@
 slug: build-custom-gcp-images
-id: 7gespmlsjdzq
 type: track
 title: Building Custom GCP Images
 teaser: Create your own Google Compute Engine custom images for use with Instruqt
@@ -9,7 +8,7 @@ description: |-
   This track walks you through the manual process for creating a new GCP custom image.
 icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags: []
-owner: instruqt
+owner: tutorials
 developers:
 - sean@instruqt.com
 private: true

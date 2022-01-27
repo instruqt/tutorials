@@ -1,5 +1,4 @@
 slug: persist-shell-session
-id: 3vkoluixnin2
 type: track
 title: Persistent Shell Environments
 teaser: Run a service in the background or keep a long-running command going between
@@ -10,7 +9,7 @@ description: |-
   You can use the [GNU Screen](https://www.gnu.org/software/screen/) tool to persist a running process or shell environment across multiple challenges.
 icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags: []
-owner: instruqt
+owner: tutorials
 developers:
 - sean@instruqt.com
 private: true

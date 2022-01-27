@@ -1,6 +1,5 @@
 ---
 slug: setup-our-environment
-id: ngdlgirmveuo
 type: challenge
 title: "\U0001F3E1 Getting Started"
 teaser: Log onto your workstation and AWS account.

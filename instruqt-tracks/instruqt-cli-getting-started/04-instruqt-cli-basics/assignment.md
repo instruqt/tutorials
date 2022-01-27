@@ -1,6 +1,5 @@
 ---
 slug: instruqt-cli-basics
-id: celimav4v5vm
 type: challenge
 title: "\U0001F469\U0001F3FE‍\U0001F3EB Instruqt CLI Basics"
 teaser: Learn some basic Instruqt CLI commands.
