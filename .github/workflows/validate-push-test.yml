@@ -12,9 +12,9 @@ concurrency: 1
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
-  Instruqt-Demos-Test:
+  Instruqt-Tutorials-Test:
     runs-on: ubuntu-latest
     env:
       # Set these values to match your environment. Your token should be 
