@@ -31,7 +31,6 @@ jobs:
         - google-artifact-registry-container
         - instruqt-cli-getting-started
         - instruqt-with-terraform
-        - persist-shell-session
     steps:
       - run: echo "📝 Instruqt validate/push/test job was triggered by a ${{ github.event_name }} event."
       - name: Check out repository code

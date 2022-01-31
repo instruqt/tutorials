@@ -1,3 +1,0 @@
-#!/bin/bash
-apt -y update
-DEBIAN_FRONTEND=noninteractive apt -y install curl wget unzip jq screen vim htop python3
