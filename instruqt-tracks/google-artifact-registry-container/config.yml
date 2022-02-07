@@ -13,3 +13,4 @@ gcp_projects:
 - name: gcpproject
   services:
   - artifactregistry.googleapis.com
+  - cloudresourcemanager.googleapis.com
