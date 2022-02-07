@@ -13,7 +13,7 @@ description: |-
   2. User configures a SaaS provider and runs terraform to manage resources on the SaaS platform.
 
   3. Background setup using terraform that happens before your user logs in. Look in the **track_scripts/setup-workstation** script for an example of terraform that runs during setup.
-icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+icon: https://storage.googleapis.com/instruqt-hashicorp-tracks/logo/terraform.png
 tags:
 - terraform
 - saas

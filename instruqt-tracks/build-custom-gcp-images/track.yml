@@ -7,7 +7,7 @@ description: |-
   Pre-installing software onto your image can improve your track startup times and reduce the number of external dependencies.
 
   This track walks you through the manual process for creating a new GCP custom image.
-icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
+icon: https://raw.githubusercontent.com/instruqt/instruqt-track-assets/master/track-icons/GCP-logo.png
 tags: []
 owner: tutorials
 developers:
