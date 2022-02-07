@@ -13,3 +13,4 @@ gcp_projects:
 - name: gcpproject
   services:
   - compute.googleapis.com
+  - cloudresourcemanager.googleapis.com
