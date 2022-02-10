@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euxo pipefail
 
-if [ ! -f /root/my-first-track ]; then
+if [ ! -d /root/my-first-track ]; then
     fail-message "Unable to find \`my-first-track\` directory. Did you run the \`instruqt track create\` command?"
 fi
