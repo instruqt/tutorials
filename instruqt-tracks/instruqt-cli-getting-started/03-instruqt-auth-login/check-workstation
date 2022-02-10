@@ -1,0 +1,6 @@
+#!/bin/bash
+set -euxo pipefail
+
+if [ ! -f /root/.config/instruqt/credentials ]; then
+    fail-message "Instruqt credentials not found. Try logging on with \`instruqt auth login\`."
+fi

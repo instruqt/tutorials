@@ -49,7 +49,7 @@ Everything below the second `---` is written in Markdown. If you haven't used Ma
 
 Let's give our users some basic instructions on what to do to solve the challenge. Copy the following text into your **assignment.md** file. Note the use of triple backticks to indicate a code block that the user should run.
 
-NOTE: This content goes at the **bottom** of the file, right below the three dashes: `---`. You can replace the boilerplate text that is already there with this content:
+NOTE: This content goes at the **bottom** of the file, right below the three dashes: `---`. Copy the text below and add it to the end of the file:
 
 <pre>
 Hello user! In order to complete this challenge you'll need to create a file called **hello.txt** containing the words "Hello World". Run the following command to create the file:

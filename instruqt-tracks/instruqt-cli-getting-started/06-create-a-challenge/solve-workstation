@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euxo pipefail
+
+# Create a mock track directory.
+mkdir -p /root/my-first-track/01-create-a-file
+
+# Create the check-shell script
+echo "Hello World" > /root/my-first-track/01-create-a-file/check-shell

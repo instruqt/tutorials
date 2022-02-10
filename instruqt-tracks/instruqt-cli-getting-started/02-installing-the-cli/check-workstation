@@ -1,0 +1,6 @@
+#!/bin/bash
+set -euxo pipefail
+
+if [ ! -x /usr/local/bin/instruqt ]; then
+    fail-message "The Instruqt CLI has not been installed yet. Make sure you copy the Instruqt binary into \`/usr/local/bin\`."
+fi

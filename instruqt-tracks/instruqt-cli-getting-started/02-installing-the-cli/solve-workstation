@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euxo pipefail
+
+wget https://github.com/instruqt/cli/releases/download/1954-00c371c/instruqt-linux-1954-00c371c.zip -O instruqt.zip
+unzip instruqt.zip
+chmod +x instruqt.zip
+mv instruqt /usr/local/bin/
+instruqt -h
