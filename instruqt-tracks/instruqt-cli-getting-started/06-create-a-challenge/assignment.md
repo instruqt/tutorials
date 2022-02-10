@@ -25,8 +25,8 @@ h2.cyan { color: cyan; }
 
 Before you proceed make sure you are in your track directory, `/root/my-first-track`.
 
-<h2 class="cyan">Create a New Challenge</h2>
-<hr class="cyan">
+Create a New Challenge
+======================
 
 Create a new challenge with the following command:
 
@@ -36,8 +36,8 @@ instruqt challenge create --title create-a-file
 
 Notice the new directory called `01-create-a-file` has appeared in your track directory. The number at the beginning of the folder determines the order in which the challenges appear in your track. If you make a mistake just delete the folder and re-create it. If you need to re-order challenges simply change the number at the beginning of the directory name.
 
-<h2 class="cyan">Edit the assignment.md file</h2>
-<hr class="cyan">
+Edit the assignment.md file
+===========================
 
 Let's take a closer look at the challenge directory. Open the `assignment.md` file in your Editor.
 
@@ -59,8 +59,8 @@ echo "Hello World" > hello.txt
 ```
 </pre>
 
-<h2 class="cyan">Edit the check-shell file</h2>
-<hr class="cyan">
+Edit the check-shell file
+=========================
 
 Now let's write a simple check script to make sure the user created the file correctly. Open the check-shell file and replace the entire file contents with the code below:
 

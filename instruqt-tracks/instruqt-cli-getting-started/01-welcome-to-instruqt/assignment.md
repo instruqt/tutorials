@@ -25,10 +25,10 @@ h2.cyan { color: cyan; }
 
 The challenges contained in this track show you how to install the Instruqt CLI and create an Instruqt track from scratch. You will then publish the track in your own organization, where you can continue to manage it from your laptop or workstation.
 
-If you've used Instruqt before you can skip straight to the **Check** button.
+If you've used Instruqt before you can skip straight to the **Check** button. If you're new to Instruqt try the Terminal and Editor Basics section by clicking on the navigation bar:
 
-<h2 class="cyan">Terminal and Editor Basics</h2>
-<hr class="cyan">
+Terminal and Editor Basics
+==========================
 
 On the left notice the **Workstation** tab. This is where you should run all your commands. Run the following command in the **Workstation** tab to create a new file:
 

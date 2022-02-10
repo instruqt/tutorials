@@ -38,7 +38,6 @@ Next unzip the file, make sure it's executable, and move it into the `/usr/local
 
 ```bash
 unzip instruqt.zip
-chmod +x instruqt.zip
 mv instruqt /usr/local/bin/
 ```
 

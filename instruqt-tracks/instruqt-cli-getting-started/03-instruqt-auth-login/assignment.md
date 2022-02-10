@@ -27,8 +27,8 @@ hr.cyan { background-color: cyan; color: cyan; height: 2px; margin-bottom: -10px
 h2.cyan { color: cyan; }
 </style>For this challenge you'll need to be a member of an Instruqt organization.
 
-<h2 class="cyan">Log on to Instruqt</h2>
-<hr class="cyan">
+Log on to Instruqt
+==================
 
 Enter the following command into your **Workstation** environment to launch the login page:
 ```bash
@@ -41,8 +41,8 @@ Once you have authenticated you'll see message that says:
 
 "You are successfully logged in. You may close this browser window."
 
-<h2 class="cyan">Return to the Shell</h2>
-<hr class="cyan">
+Return to the Shell
+===================
 
 Go back to your **Workstation** tab in Instruqt. If you have more than one organization you'll be asked to select which one should be the default. If you only have a single organization then it becomes the default automatically.
 

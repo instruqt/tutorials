@@ -23,8 +23,8 @@ hr.cyan { background-color: cyan; color: cyan; height: 2px; margin-bottom: -10px
 h2.cyan { color: cyan; }
 </style>In this section you'll create a new challenge for your track.
 
-<h2 class="cyan">Create a New Track</h2>
-<hr class="cyan">
+Create a New Track
+==================
 
 Create a new track by running the following command:
 
@@ -34,8 +34,8 @@ instruqt track create --title "My first track"
 
 A new track directory called `my-first-track` will be created and populated with track files.
 
-<h2 class="cyan">Set Working Directory</h2>
-<hr class="cyan">
+Set Working Directory
+=====================
 
 Let's set your new track directory as our working directory for the rest of the lab. Run the following commands to set your working directory:
 
@@ -46,13 +46,13 @@ set-workdir /root/my-first-track
 
 This command ensures that you won't have to run the `cd` command to change into your track directory in every challenge.
 
-<h2 class="cyan">Examine the config.yml file</h2>
-<hr class="cyan">
+Examine the config.yml file
+===========================
 
 Now hop over to the **Editor** tab and see the directory that was created for your track. Double-click the `config.yml` file inside the folder. This file is where you configure the virtual hardware that runs in your track. This may include containers, virtual machines, or cloud accounts. Currently there's only a single container called **shell**, which is running Ubuntu Linux.
 
-<h2 class="cyan">Edit the track.yml file</h2>
-<hr class="cyan">
+Edit the track.yml file
+=======================
 
 Next, open the `track.yml` file. This file contains metadata about your track, including the title, description, and publishing settings.
 

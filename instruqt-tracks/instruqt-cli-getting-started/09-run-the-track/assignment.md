@@ -25,15 +25,15 @@ h2.cyan { color: cyan; }
 
 <img style="border: 1px solid;" src="https://github.com/instruqt/instruqt-training-assets/blob/master/track-images/create_a_file.png?raw=true"></img>
 
-<h2 class="cyan">Fail the Check</h2>
-<hr class="cyan">
+Fail the Check
+==============
 
 Before you run the command try out the **Check** button. You should see the expected failure message because the **hello.txt** file was not created yet.
 
 <img style="border: 1px solid;" src="https://github.com/instruqt/instruqt-training-assets/blob/master/track-images/failed_attempt.png?raw=true"></img>
 
-<h2 class="cyan">Complete the Challenge Task</h2>
-<hr class="cyan">
+Complete the Challenge Task
+===========================
 
 Now run the command in the assignment instructions (in your new track, not this one):
 
