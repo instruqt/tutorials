@@ -1,4 +1,12 @@
 #!/bin/bash
+set -euxo pipefail
+
+until [ -f /opt/instruqt/bootstrap/host-bootstrap-completed ]; do
+    echo "Waiting for instruqt bootstrap to complete"
+    sleep 1
+done
+
 apt -y update
 DEBIAN_FRONTEND=noninteractive apt -y install vim xdg-utils wget unzip
-/bin/set-workdir /root
+
+echo "/bin/set-workdir /root" >> /root/.bashrc
