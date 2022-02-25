@@ -10,4 +10,4 @@ apt -y update
 DEBIAN_FRONTEND=noninteractive apt -y install vim xdg-utils wget unzip
 
 # This didn't work for some reason...
-# echo "/bin/set-workdir /root" >> /root/.bashrc
+echo "/bin/set-workdir /root" >> /root/.bashrc
