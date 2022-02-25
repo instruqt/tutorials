@@ -1,5 +1,6 @@
 ---
 slug: instruqt-track-push
+id: xta3bjxawdui
 type: challenge
 title: "\U0001F69A Instruqt Track Push"
 teaser: The `instruqt track push` command will bundle up your code and push it to

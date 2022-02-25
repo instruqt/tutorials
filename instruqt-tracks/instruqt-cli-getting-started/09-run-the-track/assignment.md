@@ -1,5 +1,6 @@
 ---
 slug: run-the-track
+id: dxfl3xqhyuxa
 type: challenge
 title: "\U0001F3C3\U0001F3FB Run the Track"
 teaser: Now that you've published your first track, you can run it and test it out.

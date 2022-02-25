@@ -1,5 +1,6 @@
 ---
 slug: troubleshooting-and-logs
+id: uplxips6jl6q
 type: challenge
 title: "\U0001F575\U0001F3FB‍♂️ Troubleshooting and Logs"
 teaser: The `instruqt track logs` command can help you track down bugs and fix issues.
