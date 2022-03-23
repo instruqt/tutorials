@@ -1,19 +1,18 @@
 ---
 slug: installing-the-cli
-id: b5ei2wbraxsw
 type: challenge
 title: "\U0001F41A Installing the Instruqt CLI"
 teaser: Download and install the Instruqt CLI on the platform of your choice.
 notes:
-- type: text
-  contents: |-
-    **Did you know?**
+  - type: text
+    contents: |-
+      **Did you know?**
 
-    The Instruqt command line tool is written in Golang and can run on Linux, Windows, or MacOS.
+      The Instruqt command line tool is written in Golang and can run on Linux, Windows, or MacOS.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
+  - title: Workstation
+    type: terminal
+    hostname: workstation
 difficulty: basic
 timelimit: 300
 ---

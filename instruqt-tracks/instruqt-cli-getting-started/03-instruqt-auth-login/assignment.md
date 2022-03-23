@@ -1,25 +1,23 @@
 ---
 slug: instruqt-auth-login
-id: 77jx7xbqjvgj
 type: challenge
 title: "\U0001F6C2 Log onto Instruqt"
-teaser: Use the `instruqt auth login` command to authenticate yourself and safely
-  store your temporary credentials.
+teaser: Use the `instruqt auth login` command to authenticate yourself and safely store your temporary credentials.
 notes:
-- type: text
-  contents: |-
-    The Instruqt platform has a GraphQL API that you can use to manage your tracks and query data.
+  - type: text
+    contents: |-
+      The Instruqt platform has a GraphQL API that you can use to manage your tracks and query data.
 
-    https://api-docs.instruqt.com/
+      https://api-docs.instruqt.com/
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Login
-  type: service
-  hostname: workstation
-  port: 15777
-  new_window: true
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Login
+    type: service
+    hostname: workstation
+    port: 15777
+    new_window: true
 difficulty: basic
 timelimit: 300
 ---

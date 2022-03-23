@@ -1,21 +1,19 @@
 ---
 slug: welcome-to-instruqt
-id: zmyytuhc1oog
 type: challenge
 title: "\U0001F469‍\U0001F4BB Welcome to Instruqt!"
-teaser: Welcome to a world of demos, training and cloud lab environments where the
-  only limit is your imagination!
+teaser: Welcome to a world of demos, training and cloud lab environments where the only limit is your imagination!
 notes:
-- type: text
-  contents: "\U0001F916 Beep...boop...booting up your Instruqt sandbox..."
+  - type: text
+    contents: "\U0001F916 Beep...boop...booting up your Instruqt sandbox..."
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Text Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Text Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---

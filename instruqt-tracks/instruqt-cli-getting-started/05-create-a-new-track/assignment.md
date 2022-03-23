@@ -1,21 +1,19 @@
 ---
 slug: create-a-new-track
-id: fncoggtspslk
 type: challenge
 title: "\U0001F423 Create a New Track"
 teaser: Use the Instruqt CLI tool to create a brand new track.
 notes:
-- type: text
-  contents: The Instruqt CLI creates a new track with some basic defaults. You can
-    edit any of these settings once the track is created.
+  - type: text
+    contents: The Instruqt CLI creates a new track with some basic defaults. You can edit any of these settings once the track is created.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---

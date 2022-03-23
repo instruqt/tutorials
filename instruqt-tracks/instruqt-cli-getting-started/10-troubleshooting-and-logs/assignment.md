@@ -1,21 +1,19 @@
 ---
 slug: troubleshooting-and-logs
-id: ezop6nrxr2e0
 type: challenge
 title: "\U0001F575\U0001F3FB‍♂️ Troubleshooting and Logs"
 teaser: The `instruqt track logs` command can help you track down bugs and fix issues.
 notes:
-- type: text
-  contents: When you run `instruqt track logs` from within your local track directory,
-    it will show all the logs from currently running sessions of your track.
+  - type: text
+    contents: When you run `instruqt track logs` from within your local track directory, it will show all the logs from currently running sessions of your track.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---

@@ -1,21 +1,19 @@
 ---
 slug: run-the-track
-id: uwyajwph3rgs
 type: challenge
 title: "\U0001F3C3\U0001F3FB Run the Track"
 teaser: Now that you've published your first track, you can run it and test it out.
 notes:
-- type: text
-  contents: The Instruqt development feedback cycle is fast. You can push changes
-    and test them almost immediately while you are building content.
+  - type: text
+    contents: The Instruqt development feedback cycle is fast. You can push changes and test them almost immediately while you are building content.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---
