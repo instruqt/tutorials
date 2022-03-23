@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "/bin/set-workdir /root" >> /root/.bashrc

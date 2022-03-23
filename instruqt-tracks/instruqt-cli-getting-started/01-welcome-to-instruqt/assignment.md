@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-instruqt
-id: 0xcmcfg8lng8
+id: zmyytuhc1oog
 type: challenge
 title: "\U0001F469‍\U0001F4BB Welcome to Instruqt!"
 teaser: Welcome to a world of demos, training and cloud lab environments where the

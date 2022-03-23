@@ -1,7 +1,7 @@
-slug: instruqt-cli-getting-started
-id: xvdlsov97d9w
+slug: instruqt-cli-getting-started-dev
+id: llliypupho6l
 type: track
-title: Getting Started with the Instruqt CLI
+title: DEV - Getting Started with the Instruqt CLI
 teaser: This track will get you up and running quickly with the powerful and easy-to-use
   Instruqt Command Line Interface (CLI).
 description: |-
@@ -15,4 +15,4 @@ developers:
 - sean@instruqt.com
 private: false
 published: true
-checksum: "15439646525119623966"
+checksum: "13220131707780050432"

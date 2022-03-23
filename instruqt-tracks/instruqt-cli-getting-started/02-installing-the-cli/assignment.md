@@ -1,6 +1,6 @@
 ---
 slug: installing-the-cli
-id: agulttutfybc
+id: b5ei2wbraxsw
 type: challenge
 title: "\U0001F41A Installing the Instruqt CLI"
 teaser: Download and install the Instruqt CLI on the platform of your choice.
