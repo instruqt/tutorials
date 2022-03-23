@@ -1,21 +1,19 @@
 ---
 slug: instruqt-track-validate
-id: 7ypp0gnww8we
 type: challenge
 title: ☑️ Instruqt Track Validate
 teaser: Use the `instruqt track validate` command to verify your track code.
 notes:
-- type: text
-  contents: The validate command can be used in CI/CD pipelines to fail fast when
-    invalid configurations are detected.
+  - type: text
+    contents: The validate command can be used in CI/CD pipelines to fail fast when invalid configurations are detected.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---

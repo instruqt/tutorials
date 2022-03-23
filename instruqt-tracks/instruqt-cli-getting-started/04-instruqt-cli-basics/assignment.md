@@ -1,17 +1,15 @@
 ---
 slug: instruqt-cli-basics
-id: 0ukdtxct6gw5
 type: challenge
 title: "\U0001F469\U0001F3FE‍\U0001F3EB Instruqt CLI Basics"
 teaser: Learn some basic Instruqt CLI commands.
 notes:
-- type: text
-  contents: The Instruqt CLI can be used on your laptop, or by CI/CD tools for automated
-    builds and testing.
+  - type: text
+    contents: The Instruqt CLI can be used on your laptop, or by CI/CD tools for automated builds and testing.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
+  - title: Workstation
+    type: terminal
+    hostname: workstation
 difficulty: basic
 timelimit: 300
 ---

@@ -1,9 +1,7 @@
 slug: instruqt-cli-getting-started
-id: xvdlsov97d9w
 type: track
 title: Getting Started with the Instruqt CLI
-teaser: This track will get you up and running quickly with the powerful and easy-to-use
-  Instruqt Command Line Interface (CLI).
+teaser: This track will get you up and running quickly with the powerful and easy-to-use Instruqt Command Line Interface (CLI).
 description: |-
   This beginner's tutorial will teach you how to install the Instruqt CLI tool, how to authenticate with the CLI, and how to build and deploy your first track using the command line and a text editor.
 
@@ -12,7 +10,7 @@ icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags: []
 owner: tutorials
 developers:
-- sean@instruqt.com
+  - sean@instruqt.com
 private: false
 published: true
 checksum: "15439646525119623966"
