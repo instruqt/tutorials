@@ -1,6 +1,6 @@
 ---
 slug: instruqt-cli-basics
-id: hwlowowsg2av
+id: 0ukdtxct6gw5
 type: challenge
 title: "\U0001F469\U0001F3FE‍\U0001F3EB Instruqt CLI Basics"
 teaser: Learn some basic Instruqt CLI commands.

@@ -1,5 +1,6 @@
 ---
 slug: make-image-public
+id: jwjrdjdenevb
 type: challenge
 title: Make the Container Image Public
 teaser: In this challenge you'll adjust the permissions on your registry so that Instruqt

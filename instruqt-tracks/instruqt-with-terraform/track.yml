@@ -1,4 +1,5 @@
 slug: instruqt-with-terraform
+id: bljw0okdhivr
 type: track
 title: Building on Instruqt with Terraform
 teaser: This track shows you how to use Instruqt with Terraform to build cloud resources
@@ -22,4 +23,4 @@ developers:
 - sean@instruqt.com
 private: true
 published: true
-checksum: "6474597494955519349"
+checksum: "2692280470090607213"

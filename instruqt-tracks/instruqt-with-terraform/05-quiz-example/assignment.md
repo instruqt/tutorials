@@ -1,5 +1,6 @@
 ---
 slug: quiz-example
+id: kevzad6vxywj
 type: quiz
 title: "\U0001F4DD Quiz - Company SaaS Integration"
 teaser: An Example Quiz

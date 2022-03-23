@@ -1,4 +1,5 @@
 slug: google-artifact-registry-container
+id: f6iwyt3kjkbl
 type: track
 title: Storing Container Images in Google Artifact Registry
 teaser: Learn how to copy a container image from Docker Hub into Google Artifact Registry
@@ -13,4 +14,4 @@ developers:
 - sean@instruqt.com
 private: true
 published: true
-checksum: "17026659868931307826"
+checksum: "6894112894271722217"

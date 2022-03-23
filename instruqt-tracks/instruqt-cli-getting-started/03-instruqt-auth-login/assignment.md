@@ -1,6 +1,6 @@
 ---
 slug: instruqt-auth-login
-id: 6qnrdk6wiyyc
+id: evzy39flthee
 type: challenge
 title: "\U0001F6C2 Log onto Instruqt"
 teaser: Use the `instruqt auth login` command to authenticate yourself and safely

@@ -1,5 +1,6 @@
 ---
 slug: tag-and-push-docker-image
+id: dz01yeeu0udo
 type: challenge
 title: Tag and Push a Container Image
 teaser: Using the Docker Hello World image you'll learn how to tag and push your own

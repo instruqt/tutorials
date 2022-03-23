@@ -1,6 +1,6 @@
 ---
 slug: create-a-new-track
-id: eure2ulrqv5h
+id: ttud9mt3okxz
 type: challenge
 title: "\U0001F423 Create a New Track"
 teaser: Use the Instruqt CLI tool to create a brand new track.
