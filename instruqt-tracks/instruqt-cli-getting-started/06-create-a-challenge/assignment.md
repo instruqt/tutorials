@@ -1,21 +1,19 @@
 ---
 slug: create-a-challenge
-id: f4804ra6rvpq
 type: challenge
 title: "\U0001F3CB\U0001F3FB‍♀️ Create a Challenge"
 teaser: Use the `instruqt challenge create` command to generate a new challenge.
 notes:
-- type: text
-  contents: Instruqt challenges can test all kinds of skills and functions. If you
-    can dream it, you can build it.
+  - type: text
+    contents: Instruqt challenges can test all kinds of skills and functions. If you can dream it, you can build it.
 tabs:
-- title: Workstation
-  type: terminal
-  hostname: workstation
-- title: Editor
-  type: code
-  hostname: workstation
-  path: /root
+  - title: Workstation
+    type: terminal
+    hostname: workstation
+  - title: Editor
+    type: code
+    hostname: workstation
+    path: /root
 difficulty: basic
 timelimit: 300
 ---
@@ -24,7 +22,7 @@ hr.cyan { background-color: cyan; color: cyan; height: 2px; margin-bottom: -10px
 h2.cyan { color: cyan; }
 </style>Instruqt tracks consist of one or more challenges that the user must complete to move forward.
 
-Before you proceed make sure you are in your track directory, `/root/my-first-track`.
+Before you proceed make sure you are in your track directory, `/root/yourname-first-track`.
 
 Create a New Challenge
 ======================
