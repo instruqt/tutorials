@@ -37,7 +37,7 @@ Complete the Challenge Task
 Now run the command in the assignment instructions (in your new track, not this one):
 
 ```bash
-echo "Hello World" > hello.txt
+echo "Hello World" > /root/hello.txt
 ```
 
 Click the **Check** button in your track again. You should see the success message now and the challenge will complete.
