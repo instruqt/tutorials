@@ -54,7 +54,7 @@ NOTE: This content goes at the **bottom** of the file, right below the three das
 Hello user! In order to complete this challenge you'll need to create a file called **hello.txt** containing the words "Hello World". Run the following command to create the file:
 
 ```bash
-echo "Hello World" > hello.txt
+echo "Hello World" > /root/hello.txt
 ```
 </pre>
 
