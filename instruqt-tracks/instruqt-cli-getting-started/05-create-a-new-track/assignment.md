@@ -25,22 +25,28 @@ h2.cyan { color: cyan; }
 Create a New Track
 ==================
 
+In order to ensure your track name is unique we will use your name. Run the following command but use your own name instead of alice. **Please use all lowercase letters for your name.**
+
+```bash
+export MYNAME="alice"
+```
+
 Create a new track by running the following command:
 
 ```bash
-instruqt track create --title "My first track"
+instruqt track create --title "$MYNAME first track"
 ```
 
-A new track directory called `my-first-track` will be created and populated with track files.
+A new track directory called `yourname-first-track` will be created and populated with track files.
 
 Set Working Directory
 =====================
 
-Let's set your new track directory as our working directory for the rest of the lab. Run the following commands to set your working directory:
+Let's set your new track directory as our working directory for the rest of the lab. Run the following commands to set your working directory. The `${MYNAME}` variable will be replaced with the one you set with the export command.
 
 ```bash
-cd /root/my-first-track
-set-workdir /root/my-first-track
+cd /root/${MYNAME}-first-track
+echo "set-workdir /root/${MYNAME}-first-track" >> /root/.bashrc
 ```
 
 This command ensures that you won't have to run the `cd` command to change into your track directory in every challenge.

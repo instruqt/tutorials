@@ -23,6 +23,8 @@ h2.cyan { color: cyan; }
 
 [https://github.com/instruqt/cli/releases](https://github.com/instruqt/cli/releases)
 
+You can also install the Instruqt CLI on your [laptop or workstation](https://docs.instruqt.com/getting-started/set-up-instruqt#step-3-set-up-your-chosen-tool). This is not required to complete the track and can be done later.
+
 <h2 class="cyan">Install the CLI</h2>
 <hr class="cyan">
 

@@ -22,7 +22,7 @@ hr.cyan { background-color: cyan; color: cyan; height: 2px; margin-bottom: -10px
 h2.cyan { color: cyan; }
 </style>Instruqt tracks consist of one or more challenges that the user must complete to move forward.
 
-Before you proceed make sure you are in your track directory, `/root/my-first-track`.
+Before you proceed make sure you are in your track directory, `/root/yourname-first-track`.
 
 Create a New Challenge
 ======================
@@ -54,7 +54,7 @@ NOTE: This content goes at the **bottom** of the file, right below the three das
 Hello user! In order to complete this challenge you'll need to create a file called **hello.txt** containing the words "Hello World". Run the following command to create the file:
 
 ```bash
-echo "Hello World" > hello.txt
+echo "Hello World" > /root/hello.txt
 ```
 </pre>
 

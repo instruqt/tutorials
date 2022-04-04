@@ -1,10 +1,10 @@
 #!/bin/bash
 set -euxo pipefail
 
-if [ ! -d /root/my-first-track/01-create-a-file ]; then
+if [ ! -n "$(ls -d /root/*-first-track/01-create-a-file)" ]; then
     fail-message "Unable to find \`01-create-a-file\` directory. Did you run the \`instruqt challenge create\` command?"
 fi
 
-if ! grep "Hello World" /root/my-first-track/01-create-a-file/check-shell; then
+if ! grep -R "Hello World" /root/*-first-track/01-create-a-file/check-shell; then
     fail-message "Unable to verify the \'check-shell\' script. Make sure you have saved the file the Editor tab."
 fi
