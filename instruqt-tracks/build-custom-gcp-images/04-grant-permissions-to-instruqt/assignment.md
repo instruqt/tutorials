@@ -17,6 +17,13 @@ tabs:
 difficulty: basic
 timelimit: 450
 ---
+Important Note:
+===============
+The following steps no longer work in a temporary Instruqt sandbox. If you got this far in the tutorial, congratulations! The rest of the track steps explained below should be completed in your own Google Cloud Project where you plan to store your Instruqt images.
+
+Grant Permission to Your Images
+===============================
+
 Browse to the IAM settings in your GCP console.
 
 ![GCP IAM Menu](../assets/gcp_iam_menu.png)
