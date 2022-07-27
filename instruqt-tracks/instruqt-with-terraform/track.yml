@@ -21,6 +21,6 @@ tags:
 owner: tutorials
 developers:
 - sean@instruqt.com
-private: true
+private: false
 published: true
 checksum: "2692280470090607213"
