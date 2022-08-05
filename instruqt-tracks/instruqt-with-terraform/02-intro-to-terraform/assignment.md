@@ -1,6 +1,6 @@
 ---
 slug: intro-to-terraform
-id: 1sinwccj5mwx
+id: woit0fdzzpkl
 type: challenge
 title: "\U0001F3D7️ Introduction to Terraform"
 teaser: Just enough Terraform to build on Instruqt

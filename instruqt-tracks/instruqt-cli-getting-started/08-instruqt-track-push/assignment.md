@@ -1,19 +1,23 @@
 ---
 slug: instruqt-track-push
+id: yq6ylepqcdke
 type: challenge
 title: "\U0001F69A Instruqt Track Push"
-teaser: The `instruqt track push` command will bundle up your code and push it to your organization.
+teaser: The `instruqt track push` command will bundle up your code and push it to
+  your organization.
 notes:
-  - type: text
-    contents: You can push your tracks repeatedly as you develop your challenges. If you only change notes and assignment text the changes will go live immediately without restarting the track.
+- type: text
+  contents: You can push your tracks repeatedly as you develop your challenges. If
+    you only change notes and assignment text the changes will go live immediately
+    without restarting the track.
 tabs:
-  - title: Workstation
-    type: terminal
-    hostname: workstation
-  - title: Editor
-    type: code
-    hostname: workstation
-    path: /root
+- title: Workstation
+  type: terminal
+  hostname: workstation
+- title: Editor
+  type: code
+  hostname: workstation
+  path: /root
 difficulty: basic
 timelimit: 300
 ---

@@ -1,6 +1,6 @@
 ---
 slug: create-a-custom-image
-id: 5hxgblyr75ag
+id: gko0avj51pz0
 type: challenge
 title: Create a Custom Image
 teaser: Make a copy of the build machine's startup disk for use in your Instruqt tracks.
