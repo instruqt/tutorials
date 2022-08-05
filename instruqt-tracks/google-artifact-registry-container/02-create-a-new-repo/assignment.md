@@ -1,6 +1,6 @@
 ---
 slug: create-a-new-repo
-id: iallf7xyjkls
+id: gsgsd9wd770d
 type: challenge
 title: Create a new Google Artifact Registry repo
 teaser: Google Artifact Registry has replaced the legacy Google Container Registry.

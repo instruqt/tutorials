@@ -12,3 +12,4 @@ gcp_projects:
   services:
   - artifactregistry.googleapis.com
   - cloudresourcemanager.googleapis.com
+  roles: []

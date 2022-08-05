@@ -1,6 +1,6 @@
 ---
 slug: grant-permissions-to-instruqt
-id: xljynm0ejexj
+id: occsnjagfhv4
 type: challenge
 title: Grant Permissions to Instruqt
 teaser: Grant the Instruqt GCP service account read access to your GCP project.
