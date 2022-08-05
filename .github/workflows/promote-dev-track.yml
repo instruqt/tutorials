@@ -7,7 +7,7 @@
 name: promote
 
 env:
-  ORGANIZATION_SLUG: instruqt-demos
+  ORGANIZATION_SLUG: tutorials
   INSTRUQT_TOKEN: ${{ secrets.INSTRUQT_TOKEN }}
   TRACK_DIR: instruqt-tracks
   
