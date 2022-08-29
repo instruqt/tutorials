@@ -1,6 +1,6 @@
 ---
 slug: create-a-gcp-project
-id: sqdanqy8uomd
+id: qbwrehnakngb
 type: challenge
 title: Create a GCP Project
 teaser: The first thing you'll need is a dedicated GCP project for storing your container

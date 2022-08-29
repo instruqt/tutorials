@@ -1,6 +1,6 @@
 ---
 slug: setup-our-environment
-id: cstvnorfmpjt
+id: 7hrwzibgmgyd
 type: challenge
 title: "\U0001F3E1 Getting Started"
 teaser: Log onto your workstation and AWS account.

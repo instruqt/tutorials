@@ -1,19 +1,21 @@
 ---
 slug: create-a-challenge
+id: izx4q7prjohn
 type: challenge
 title: "\U0001F3CB\U0001F3FB‍♀️ Create a Challenge"
 teaser: Use the `instruqt challenge create` command to generate a new challenge.
 notes:
-  - type: text
-    contents: Instruqt challenges can test all kinds of skills and functions. If you can dream it, you can build it.
+- type: text
+  contents: Instruqt challenges can test all kinds of skills and functions. If you
+    can dream it, you can build it.
 tabs:
-  - title: Workstation
-    type: terminal
-    hostname: workstation
-  - title: Editor
-    type: code
-    hostname: workstation
-    path: /root
+- title: Workstation
+  type: terminal
+  hostname: workstation
+- title: Editor
+  type: code
+  hostname: workstation
+  path: /root
 difficulty: basic
 timelimit: 300
 ---
