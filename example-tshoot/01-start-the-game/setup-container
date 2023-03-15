@@ -1,0 +1,13 @@
+#!/bin/bash
+apt update && apt upgrade
+apt -y install curl
+
+curl -LJO https://raw.githubusercontent.com/wraithxiv/scripts/main/start.sh
+chmod +x start.sh
+
+echo '#Temp Alias' >> ~/.bashrc
+echo "alias start='/root/start.sh'" >> ~/.bashrc
+
+source ~/.bashrc
+
+touch start-game

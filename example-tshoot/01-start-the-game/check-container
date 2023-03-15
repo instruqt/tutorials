@@ -1,0 +1,12 @@
+#!/bin/bash
+set -euxo pipefail
+
+echo "Checking if you started the game."
+
+var=$(head -1 start-game)
+case $var in
+y|Y)
+        echo "You successfully started the game!";;
+*)
+        fail-message "The game hasn't been started";;
+esac
