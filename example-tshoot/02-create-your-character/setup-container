@@ -1,0 +1,15 @@
+#!/bin/bash
+apt update && apt upgrade
+apt -y install curl
+
+curl -LJO https://raw.githubusercontent.com/wraithxiv/scripts/main/create_char.py
+chmod +x /root/create_char.py
+
+apt install software-properties-common -y
+
+echo '#Temp Alias' >> ~/.bashrc
+echo "alias create='python3 /root/create_char.py'" >> ~/.bashrc
+
+source ~/.bashrc
+
+touch progress

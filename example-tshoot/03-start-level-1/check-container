@@ -1,0 +1,14 @@
+#!/bin/bash
+set -euxo pipefail
+
+VAR=$(wc -l < level1)
+
+if [ $VAR = 0 ]; then
+    fail-message "You haven't defeated the enemy yet!"
+elif [ $VAR == 1 ]; then
+    fail-message "You haven't found all the keys yet!"
+elif [ $VAR == 2 ]; then
+    fail-message "You haven't escaped yet!"
+elif [ $VAR == 3 ]; then
+    echo "You successfully completed level 1!"
+fi
