@@ -8,7 +8,7 @@ description: |-
 
   The Instruqt backend runs on Google Cloud Platform. By storing your container images on GCP you can speed startup times and not worry about pull limits imposed by Docker Hub.
 icon: https://raw.githubusercontent.com/instruqt/instruqt-track-assets/master/track-icons/GCP-logo.png
-tags: []
+tags: ["no-ci"]
 owner: tutorials
 developers:
 - sean@instruqt.com

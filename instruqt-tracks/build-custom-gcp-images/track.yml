@@ -8,7 +8,7 @@ description: |-
 
   This track walks you through the manual process for creating a new GCP custom image.
 icon: https://raw.githubusercontent.com/instruqt/instruqt-track-assets/master/track-icons/GCP-logo.png
-tags: []
+tags: ["no-ci"]
 owner: tutorials
 developers:
 - sean@instruqt.com
